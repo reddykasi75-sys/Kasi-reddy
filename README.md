@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 a = int(input("Enter first number: "))
 b = int(input("Enter second number: "))
@@ -11,7 +10,5 @@ if b != 0:
     print("Division:", a / b)
 else:
     print("Cannot divide by zero")
-=======
-SHIVA🔱
->>>>>>> 3926d0871720b2f9151f435076a701f8dcf56821
+
 
